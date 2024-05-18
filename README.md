@@ -10,8 +10,6 @@ Discover. Collect. Unveil. Upload an image with a person and a Google Drive link
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Requirements](#requirements)
-- [License](#license)
-- [Contributing](#contributing)
 
 ## Introduction
 
